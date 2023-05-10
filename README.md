@@ -25,7 +25,7 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 Developed By:Shashin prasad.s
 Reg.No:212222230144
 
-
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -195,7 +195,7 @@ int main(int argc, char **argv)
 
     return (0);
 }
-
+```
 ## Output:
 ![pca 3](https://user-images.githubusercontent.com/93427522/235589027-ad409113-e0a3-4d52-a82e-287691ac7583.png)
 
